@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/83170300?s=400&u=fb92c335c6e2762d24f0cf517069003987f0ed5a&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/PrwdoX/English-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Pouya Manafian Alishahi
+I am studying software engineering at Payame Noor University of North Tehran.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Pouya 
+- Last Name: Manafian Alishahi
+- Birth Date: 2000/03/14
+- Marriage Status: single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ photoshop
++ photoshop
++ word
 
-- Bulleted
-- List
+### Favorites
 
-1. Numbered
-2. List
+---
+<ol>
+  <li> travel </li>
+  <li> Computer games</li>
+</ol>
 
-**Bold** and _Italic_ and `Code` text
+### Languages
 
-[Link](url) and ![Image](src)
-```
+- Persian(Advanced)
+- English(Normal)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Other Accounts
+-Gmail: pooya.manafyan@gmail.com
+- Quera Profile: <a href="https://quera.ir/profile/PouyaManafian">My Profile</a>
+ ------------------
+### رزومه فارسی
 
-### Jekyll Themes
+<h1> درباره ی من</h1>
+  <p> من پویا منافیان علیشاهی هستم. من دانشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور تهران شمال  هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:پویا</li>
+  <li>نام خانوادگے: منافیان علی شاهی</li>
+  <li>تاریخ تولد: 1379/01/07</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrwdoX/English-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</ul>
 
-### Support or Contact
+  
+<h1>مهارت ها</h1>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<ul>
+    <li>فتوشاپ</li>
+    <li>الستریتور </li>
+   <li>ورد</li>
+</ul>
+
+<h1>علایق </h1>
+<ul>
+ <li> مسافرت</li>
+ <li> بازی های کامپیوتری</li>
+</ul>
+
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
+
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>هیچی</li>
+</ul>
+
+<br/>
+
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
+
+ 
+   - Gmail:pooya.manafyan@gmail.com
+ کوئرا: <a href="https://quera.ir/profile/PouyaManafian">My Profile</a>
+ </ul>
+
