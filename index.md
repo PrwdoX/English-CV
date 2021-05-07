@@ -33,8 +33,10 @@ I am studying software engineering at Payame Noor University of North Tehran.
 
 ### Other Accounts
 -Gmail: pooya.manafyan@gmail.com
+
 - Quera Profile: <a href="https://quera.ir/profile/PouyaManafian">My Profile</a>
- ------------------
+ 
+-----------------------------------------
 ### رزومه فارسی
 
 <h1> درباره ی من</h1>
@@ -83,6 +85,7 @@ I am studying software engineering at Payame Noor University of North Tehran.
 
  
    - Gmail:pooya.manafyan@gmail.com
- کوئرا: <a href="https://quera.ir/profile/PouyaManafian">My Profile</a>
+   - کوئرا: <a href="https://quera.ir/profile/PouyaManafian">My Profile</a>
+ 
  </ul>
 
